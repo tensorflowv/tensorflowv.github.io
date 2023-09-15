@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+p {
+    color: white;
+    
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia;
+    position: relative;
+    top: 80px;
+    
+}
