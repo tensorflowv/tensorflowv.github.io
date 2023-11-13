@@ -1,0 +1,18 @@
+body{
+    background: #eeaabb;
+}
+footer{
+    background: #00243d;
+    padding: 2em;
+}
+footer > p, a{
+    color: #ffffeb;   
+    text-decoration: none; 
+    font-size: 1.5em; 
+    font-family: monospace;         
+}
+.logo{
+    font-size: 3em;
+    font-family: cursive;
+    color: white;
+}
